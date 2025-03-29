@@ -230,9 +230,7 @@ z-index: -1;
     font-size: 23px;
 }
 
-div{
-    border: 2px solid black;
-}
+
 #tablaExcel {
     width: 200px;    
     margin: 0;      /* Ocupa 90% del contenedor */   /* Máximo 1000px */      /* Centrar */
